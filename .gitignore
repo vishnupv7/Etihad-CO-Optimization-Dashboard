@@ -1,0 +1,6 @@
+
+# Ignore large processed datasets
+data/processed/etihad_dashboard_enhanced.csv
+# Ignore Streamlit checkpoints
+dashboard/streamlit/.streamlit/
+data/processed/etihad_dashboard_enhanced.csv
